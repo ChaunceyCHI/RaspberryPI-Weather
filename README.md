@@ -5,6 +5,6 @@ Todo:
 
 | Things  | Finished |
 | ------------- | ------------- |
-| Connect the PI  |   |
+| Connect the PI  |  √ |
 | Run an example  |  |
 | Import the weather API |  |  
